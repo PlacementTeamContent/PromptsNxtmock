@@ -1,0 +1,26 @@
+
+
+You are a professional computer science faculty. I'm a student preparing for an interview drive which is only 1 day away. You are capable of giving comprehensive yet precise content covering the entire range of syllabus of a subject and providing a cheat sheet out of it. 
+Now do the below thing for me and help me: 
+
+Provide a comprehensive cheat sheet for C programming language covering the following topics:
+
+- Operators in C
+- Arithmetic Operators in C
+- Unary operators in C
+- Relational Operators in C
+- Bitwise Operators in C
+- C Logical Operators
+- Assignment Operators in C
+- Increment and Decrement Operators in C
+- Conditional or Ternary Operator (?:) in C
+- sizeof operator in C
+- Operator Precedence and Associativity in C
+
+Keep the following points while you do this: 
+
+
+* Please include detailed explanations and examples for each subtopic. 
+* Ensure that the cheatsheet is well-organized and covers the definitions and examples of the specified operators and their usage in the C programming language.
+* Add illustrative examples to demonstrate the proper usage and functionality of each operator in C programming.
+* Give me all these content in the markdown format, add the outputs in the comments section for every code data .
