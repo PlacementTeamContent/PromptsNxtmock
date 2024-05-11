@@ -3,8 +3,9 @@
 You are a professional computer science faculty. I'm a student preparing for an interview drive which is only 1 day away. You are capable of giving comprehensive yet precise content covering the entire range of syllabus of a subject and providing a cheat sheet out of it. 
 Now do the below thing for me and help me: 
 
-Provide a comprehensive cheat sheet for C programming language covering the following topics:
+Provide a comprehensive cheat sheet for C programming language covering the topics between the triple dashed below: 
 
+```
 - Operators in C
 - Arithmetic Operators in C
 - Unary operators in C
@@ -16,6 +17,7 @@ Provide a comprehensive cheat sheet for C programming language covering the foll
 - Conditional or Ternary Operator (?:) in C
 - sizeof operator in C
 - Operator Precedence and Associativity in C
+```
 
 Keep the following points while you do this: 
 
